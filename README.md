@@ -2,8 +2,7 @@
 
 Приложение для поиска и просмотра фильмов, сериалов и аниме на Windows.
 
-**[Скачать KINONEXT для Windows](https://github.com/HATEMYSAND/KINONEXT/releases)**  
-Скачайте и запустите `KINONEXT.exe`. Установка не нужна.
+**[Скачать KINONEXT](https://github.com/HATEMYSAND/KINONEXT/releases)**  
 
 ## Возможности
 
