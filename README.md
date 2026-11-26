@@ -1,8 +1,11 @@
 # KINONEXT
 
-Приложение для поиска и просмотра фильмов, сериалов и аниме на Windows.
+<img width="3000" height="500" alt="БаннерГХ" src="https://github.com/user-attachments/assets/2d02a78a-e323-4e43-8a05-cee6e59c32a3" />
 
-**[Скачать KINONEXT](https://github.com/HATEMYSAND/KINONEXT/releases)**  
+
+**Приложение для поиска и просмотра фильмов, сериалов и аниме на Windows.**
+
+## **[Скачать KINONEXT](https://github.com/HATEMYSAND/KINONEXT/releases)**
 
 ## Возможности
 
